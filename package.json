@@ -1,0 +1,29 @@
+{
+  "name": "@kairoverse/editorjs",
+  "version": "0.0.1",
+  "module": "./index.js",
+  "main": "./index.js",
+  "type": "module",
+  "types": "./index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "@editorjs/header": "^2.6.2",
+    "@editorjs/list": "^1.7.0",
+    "@editorjs/quote": "^2.4.0",
+    "@editorjs/table": "^2.0.4",
+    "@editorjs/image": "^2.6.2",
+    "@editorjs/embed": "^2.5.2",
+    "@editorjs/paragraph": "^2.8.0",
+    "@editorjs/warning": "^1.2.0",
+    "@editorjs/underline": "^1.0.0",
+    "@editorjs/marker": "^1.2.2",
+    "editorjs-style": "^3.0.3",
+    "editorjs-text-alignment-blocktune": "^1.0.3",
+    "@editorjs/delimiter": "^1.2.0",
+    "@editorjs/text-variant-tune": "^1.0.1",
+    "editorjs-undo": "^2.0.8",
+    "@editorjs/editorjs": "^2.25.0",
+    "react": "18.2.0",
+    "@emotion/styled": "11.10.4"
+  }
+}
